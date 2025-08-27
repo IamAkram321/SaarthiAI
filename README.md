@@ -3,9 +3,7 @@ SaarthiAI 🤖
 A ChatGPT-like AI chatbot built with Next.js, Assistant UI, and Tailwind CSS, integrated with Gemini API for intelligent responses.
 Deployed seamlessly on Vercel.
 
-🔗 Live Demo: SaarthiAI
-
-https://saarthi-ai-drab.vercel.app/
+🔗 Live Demo: https://saarthi-ai-drab.vercel.app/
 
 🚀 Features
 
@@ -34,7 +32,7 @@ Deployment: Vercel
 
 Clone the repository
 
-git clone https://github.com/your-username/SaarthiAI.git
+git clone https://github.com/iamakram321/SaarthiAI.git
 cd SaarthiAI
 
 
